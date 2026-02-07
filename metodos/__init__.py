@@ -1,0 +1,3 @@
+from metodos.carta_amplitude import CartaControleAmplitude
+from metodos.distribuicao import Distribuicao
+from metodos.information import Information
